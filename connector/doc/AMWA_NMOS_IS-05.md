@@ -46,4 +46,6 @@ HTTP CONNECTION:
 
 On the **General** page, you can find the Senders and Receivers tables with all the relevant information.
 
+On the **Flow Engineering** page, you can find the FLE tables. NOTE: The IS-05 is only triggering receiver patch request from the FLE, the patch request for the senders regarding FLE is not needed.
+
 The connector adds the information by parsing an **HTTP** response.
